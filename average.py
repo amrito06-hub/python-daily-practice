@@ -7,5 +7,9 @@ for i in range(len(A)):
 
 average = total / len(A)
 
+<<<<<<< HEAD
 print("Average:", average)
 
+=======
+print("Average:", average)
+>>>>>>> 68397f6a0de1d237243434799073ee6563ace5ba
