@@ -1,4 +1,4 @@
-num = int(input("Enter a numberfor table: "))
+num = int(input("Enter a number for table: "))
 i = 1
 while i <= 10:
     print(num, "x", i, "=", num * i)
