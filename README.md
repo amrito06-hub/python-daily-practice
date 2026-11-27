@@ -21,7 +21,8 @@ def f(a, b=2, *args, **kw):
     print(a, b, args, kw)
 f(1, 3, 4, 5, x=9)            # 1 3 (4, 5) {'x': 9}
 9.
-10.
+10.  remaning kaam jld hi start hoga
+
 11.
 12.  
 13.
